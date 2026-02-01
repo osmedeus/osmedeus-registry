@@ -21,7 +21,6 @@ REPO_WITH_ARTIFACTS = {
     # "gotator": "Josue87/gotator",
     "puredns": "d3mondev/puredns",
     "ffuf": "ffuf/ffuf",
-    "durl": "j3ssie/durl",
     "trivy": "aquasecurity/trivy",
     "legba": "evilsocket/legba",
     "dalfox": "hahwul/dalfox",
@@ -32,6 +31,8 @@ REPO_WITH_ARTIFACTS = {
     "cloudfox": "BishopFox/cloudfox",
     "jsluice": "BishopFox/jsluice",
     "urlhunter": "utkusen/urlhunter",
+    "kingfisher": "mongodb/kingfisher",
+    "metabigor": "j3ssie/metabigor",
 }
 
 def get_github_token(env_var="GH_TOKEN"):
