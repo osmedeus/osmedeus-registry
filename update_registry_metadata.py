@@ -26,6 +26,7 @@ REPO_WITH_ARTIFACTS = {
     "dalfox": "hahwul/dalfox",
     "gosec": "securego/gosec",
     "gau": "lc/gau",
+    "bearer": "bearer/bearer",
     "interactsh": "projectdiscovery/interactsh",
     "cariddi": "edoardottt/cariddi",
     "cloudfox": "BishopFox/cloudfox",
